@@ -1,16 +1,36 @@
 .section1 {
     background-color: red;
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    height: 700px;
+    justify-content: center;
+
+    height: 800px;
 }
 
 .opening {
-    font-size: 250px;
+    font-size: 200px;
 }
 
 .section2 {
     background-color: coral;
-    height: 700px;
+    height: 800px;
+}
+
+.section3 {
+    background-color: maroon;
+    height: 800px;
+}
+
+.section4 {
+    background-color: lightpink;
+    height: 800px;
+}
+
+.section5 {
+    background-color: lightskyblue;
+    height: 800px;
+}
+
+.section6 {
+    background-color: lightgoldenrodyellow;
+    height: 800px;
 }
