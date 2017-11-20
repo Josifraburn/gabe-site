@@ -1,0 +1,16 @@
+.section1 {
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 700px;
+}
+
+.opening {
+    font-size: 250px;
+}
+
+.section2 {
+    background-color: coral;
+    height: 700px;
+}
